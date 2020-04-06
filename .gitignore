@@ -1,1 +1,4 @@
 .vscode
+notebooks/3k_pbmc_group/
+notebooks/filtered_gene_bc_matrices/
+notebooks/pbmc3k_filtered_gene_bc_matrices.tar.gz
