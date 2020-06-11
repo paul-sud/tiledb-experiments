@@ -1,4 +1,8 @@
 .vscode
-notebooks/3k_pbmc_group/
-notebooks/filtered_gene_bc_matrices/
-notebooks/pbmc3k_filtered_gene_bc_matrices.tar.gz
+notebooks/anndata/3k_pbmc_group/
+notebooks/anndata/filtered_gene_bc_matrices/
+notebooks/anndata/pbmc3k_filtered_gene_bc_matrices.tar.gz
+notebooks/matrix-market/barcodes.tsv.gz
+notebooks/matrix-market/features.tsv.gz
+notebooks/matrix-market/matrix.mtx.gz
+notebooks/matrix-market/sc-matrix/
